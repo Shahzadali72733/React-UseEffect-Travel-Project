@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.adf8b58b.css",
-    "main.js": "/repository-name/static/js/main.ea7d7879.js",
-    "index.html": "/repository-name/index.html",
-    "main.adf8b58b.css.map": "/repository-name/static/css/main.adf8b58b.css.map",
-    "main.ea7d7879.js.map": "/repository-name/static/js/main.ea7d7879.js.map"
+    "main.css": "/React-UseEffect-Travel-Project/static/css/main.adf8b58b.css",
+    "main.js": "/React-UseEffect-Travel-Project/static/js/main.ea7d7879.js",
+    "index.html": "/React-UseEffect-Travel-Project/index.html",
+    "main.adf8b58b.css.map": "/React-UseEffect-Travel-Project/static/css/main.adf8b58b.css.map",
+    "main.ea7d7879.js.map": "/React-UseEffect-Travel-Project/static/js/main.ea7d7879.js.map"
   },
   "entrypoints": [
     "static/css/main.adf8b58b.css",
